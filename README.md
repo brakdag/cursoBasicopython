@@ -1,0 +1,2 @@
+# cursoBasicopython
+Curso Básico Python
